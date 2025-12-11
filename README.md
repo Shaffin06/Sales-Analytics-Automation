@@ -38,6 +38,14 @@ City + Customer insights,
 Product performance charts, and
 Reference data tables
 
+Here's how some of the generated charts look like:
+
+<img width="700" height="400" alt="image" src="https://github.com/user-attachments/assets/d2ac1374-ecea-4e25-89dc-527bc51d1f35" />
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/e4f9be45-a2be-4d6b-8810-c6677b656a84" />
+
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/b28cf057-f12f-4598-93db-e10b87d935ae" />
+
 Running the Project:
 Run the following code in your command prompt
 
